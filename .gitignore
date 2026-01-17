@@ -9,3 +9,7 @@ bdd100k_labels_release/
 bdd100k_seg/
 
 
+*.ipynb
+*pt
+*.pth
+*.mp4
